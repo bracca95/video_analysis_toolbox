@@ -1,0 +1,11 @@
+{
+	"video_path": "/path/to/video.mp4",
+	"blur": true,
+	"exposure": true,
+	"entropy": true,
+	"motion": true,
+	"debug": true,
+	"show": false,
+	"blur_roi": [0,0,0,0],
+	"patch_grid": [3,3]
+}
